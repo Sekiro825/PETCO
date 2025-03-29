@@ -1,0 +1,51 @@
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.filter-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.filter-dropdown {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  background-color: white;
+}
+
+.pet-store-list {
+  margin-top: 20px;
+  width: 80%;
+  max-width: 1200px;
+}
+
+.store-card {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.store-card a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.store-card a:hover {
+  text-decoration: underline;
+}
