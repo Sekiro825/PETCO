@@ -3,9 +3,9 @@ import '../Styles/AVVideo.css'; // Ensure correct path
 
 const AwarenessVideos = () => {
   const videoLinks = [
-    "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "https://www.youtube.com/embed/tgbNymZ7vqY",
-    "https://www.youtube.com/embed/LXb3EKWsInQ"
+    "https://www.youtube.com/watch?v=JUdiKi20p5o&utm_source=chatgpt.com",
+    "https://www.youtube.com/watch?v=qUTymjLmoyk&utm_source=chatgpt.com",
+    "https://m.youtube.com/watch?t=0s&v=RW15LkCGU1o"
   ];
 
   const videoDescriptions = [
